@@ -1,1 +1,1 @@
-print("git pycharm automation setup")
+print("git pycharm automation setup s1")
